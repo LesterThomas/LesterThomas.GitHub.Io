@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Index heading
 
-I'm glad you are here. I plan to talk about ... testing GitHub POages
+index content
