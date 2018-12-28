@@ -1,3 +1,1 @@
-# Index heading
-
 index content
